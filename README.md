@@ -12,7 +12,7 @@
 
 - 👯 I’m intrested in **Game hacking, web development and some other cool & intresting things!**
 
-- ⚡ Fun fact **I like cats.**
+- ⚡ Fun fact **I like dogs.**
 
 
 
