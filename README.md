@@ -51,7 +51,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/nickmonick/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nickmonick">
 </a>
 <a href="https://github.com/nickmonick?tab=followers"><img src="https://img.shields.io/github/followers/nickmonick?label=Followers&style=social" alt="GitHub Badge"></a>
