@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Hello! My name is **Grim** or **Nick**!
+- 🔭 Hello! My name is **Nick** or **Nicholas**!
 
 - 🌱 I'm currently studying **Computer science**.
 
