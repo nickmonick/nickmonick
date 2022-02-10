@@ -7,7 +7,7 @@
 
 - 🔭 Hello! My name is **Nick** or **Nicholas**!
 
-- 🌱 I'm currently studying **Computer science**.
+- 🌱 I'm currently studying learning **c++**.
 
 - 👯 I’m intrested in **Game hacking, web development and some other cool & intresting things!**
 
