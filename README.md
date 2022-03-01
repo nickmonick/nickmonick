@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Hello! My name is **Nick** or **Nicholas**!
+- 🔭 Hello! My name is **Nick**
 
-- 🌱 I'm currently studying learning **c++**.
+- 🌱 I'm currently learning **c++** and **React JS**.
 
 - 👯 I’m intrested in **Game hacking, web development and some other cool & intresting things!**
 
