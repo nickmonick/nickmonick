@@ -7,9 +7,9 @@
 
 - 🔭 Hello! My name is **Nick**
 
-- 🌱 I'm currently learning **c++** and **React JS**.
+- 🌱 I'm currently learning Fullstack Development.
 
-- 👯 I’m intrested in **Game hacking, web development and some other cool & intresting things!**
+- 👯 I’m intrested in **Game hacking, web development and desktop app development**
 
 - ⚡ Fun fact **I like dogs.**
 
