@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning Fullstack Development.
 
-- 👯 I’m intrested in **Game hacking, web development and desktop app development**
+- 👯 I’m intrested in *Web Development and Desktop Development**
 
 - ⚡ Fun fact **I like dogs.**
 
